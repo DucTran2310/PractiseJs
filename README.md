@@ -10,3 +10,4 @@
 -   [Form Wave](https://form-wave-f5049.web.app/)
 -   [Incrementing Counter](https://incrementing-counter.web.app/)
 -   [Background Slider](https://background-slider.web.app/)
+-   [Clock](https://clock-bf522.web.app/)
