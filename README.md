@@ -13,3 +13,4 @@
 -   [Clock](https://clock-bf522.web.app/)
 -   [Button Ripple Effect](https://practise-js.vercel.app/)
 -   [Sticky Navbar](https://practise-js-day12.vercel.app/)
+-   [Vertical Slider](https://vertical-slider.vercel.app/)
